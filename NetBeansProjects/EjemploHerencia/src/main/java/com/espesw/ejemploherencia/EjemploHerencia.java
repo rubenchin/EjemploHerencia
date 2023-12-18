@@ -20,7 +20,7 @@ public class EjemploHerencia {
         
         //imprimir el valor del area
                 
-        System.out.println("El area del circulo es: " + circulo1.CalcularArea());
+        System.out.println("El área del círculo es: " + circulo1.CalcularArea());
 
         
     }
